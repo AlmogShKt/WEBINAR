@@ -1,0 +1,91 @@
+{
+  "name": "Almog Shtaigmann",
+  "title": "2nd Year B.Sc. Computer Science Student",
+  "contact": {
+    "phone": "058-6669888",
+    "email": "a.shtaigmann@gmail.com",
+    "github": "https://github.com/almogshkt",
+    "linkedin": "https://www.linkedin.com/in/almog-shtaigmann/"
+  },
+  "profile": "I am a 2nd year computer science student with experience in backend, mobile development, and DevOps. I am seeking a position as a student software engineering intern.",
+  "education": {
+    "institution": "The Open University",
+    "expected_graduation": "2026–2027",
+    "degree": "B.Sc. in Computer Science",
+    "gpa": 85,
+    "completed_coursework": [
+      {
+        "name": "Data Structures and Algorithms",
+        "grade": 87
+      },
+      {
+        "name": "Introduction to Computer Science",
+        "grade": 85
+      }
+    ],
+    "current_coursework": [
+      "Algorithms",
+      "Computer Networks",
+      "Database System Concepts"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Shutterfly Inc.",
+      "title": "Native Android Developer (Student)",
+      "dates": "Oct 2023 – Present",
+      "responsibilities": [
+        "Applied engineering principles to solve complex problems",
+        "Proficient in Kotlin and Java",
+        "Experienced in MVVM and Clean Architecture",
+        "Strong understanding of design patterns and OOP"
+      ]
+    },
+    {
+      "company": "Intel Corporation",
+      "title": "DevOps Student",
+      "dates": "Mar 2022 – Oct 2023",
+      "responsibilities": [
+        "Proficient in Python for backend and RESTful API development",
+        "Built a Python-Flask + React feedback system (↑50% engagement)",
+        "Created CI/CD pipelines using GitHub Actions and Azure Runbooks"
+      ]
+    }
+  ],
+  "technologies": [
+    "Kotlin",
+    "Java",
+    "Python",
+    "Flask",
+    "React",
+    "RESTful APIs",
+    "CI/CD",
+    "GitHub Actions",
+    "Azure",
+    "OOP",
+    "MVVM",
+    "Clean Architecture",
+    "Jira"
+  ],
+  "projects": [
+    {
+      "name": "C Laboratory",
+      "description": "Built a full assembler program – 8000+ views",
+      "github": "https://github.com/AlmogShKt/Labratory-C-Final-Project"
+    },
+    {
+      "name": "Dog Feeder",
+      "description": "ESP32-based automatic feeder using embedded IoT – 4 stars",
+      "github": "https://github.com/DogFeederDevelopers/Dog-Feeder"
+    },
+    {
+      "name": "Hand Detection",
+      "description": "Built with OpenCV + MediaPipe for real-time hand detection",
+      "github": "https://github.com/AlmogShKt/HandDetection"
+    }
+  ],
+  "languages": {
+    "Hebrew": "Native",
+    "English": "Fluent"
+  }
+}
